@@ -1,0 +1,16 @@
+img {
+  border-style: none;
+  width: 300px;
+}
+
+.main {
+  padding: 20px;
+  background-color: $font-alternative-color;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  max-width: 1200px;
+}
