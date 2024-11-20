@@ -6738,13 +6738,17 @@ h6 {
 }
 
 body {
-  background-color: rgb(176, 176, 212);
+  background-color: #000000;
 }
 
 * {
-  color: #000;
+  color: #6a6cdb;
+}
+
+.main {
+  background-color: #161616;
 }
 
 .footer {
-  background: linear-gradient(#2c1fe0, #12105f);
+  background-color: #161616;
 }

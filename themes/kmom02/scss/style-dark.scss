@@ -33,13 +33,17 @@ h6 {
 
 
 body {
-  background-color: $background-color;
+  background-color: $background-color-dark;
 }
 
 * {
-  color: $font-color;
+  color: $font-color-dark;
+}
+
+.main {
+  background-color: $background-main-dark;
 }
 
 .footer {
-  background: $footer-background;
+  background-color: $footer-background-dark;
 }

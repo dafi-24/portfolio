@@ -22,6 +22,8 @@
     <div class="nav">
         <div id="nav" role="navigation" tabindex="-1">
             <ul>
+                <a href="?action=session_destroy">Destroy Session</a>
+                <a href="?action=theme">Swap theme</a>
                 <i class="fa-solid fa-house"></i>
                 {% for page in pages(depthOffset=-1) if page.title and not page.hidden %}
                     <li{% if page.id==current_page.id %} class="active" {% endif %}>
