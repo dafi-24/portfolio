@@ -6432,9 +6432,10 @@ blockquote {
 code {
   margin: 0 0.1em;
   padding: 0.1em 0.2em;
-  border: 1px solid #ccc;
+  border: 1px solid rgb(0, 89, 255);
   border-radius: 0.3em;
-  background: #f5f5f5;
+  background: #000;
+  color: #fff;
   font-family: monospace;
   font-size: 0.85rem;
   line-height: 1.9824;
@@ -6442,9 +6443,10 @@ code {
 
 pre {
   padding: 0 1em;
+  background-color: #000;
   border: 1px solid #ccc;
   border-radius: 0.3em;
-  background: #f5f5f5;
+  background: #000;
 }
 
 pre code {
@@ -6470,7 +6472,7 @@ pre code {
 }
 
 .footer a {
-  color: #222;
+  color: #fff;
 }
 
 .footer .social {
@@ -6488,10 +6490,6 @@ pre code {
   padding: 1em 0;
   list-style: none;
   font-size: 25px;
-}
-
-.nav a {
-  color: #6a6cdb;
 }
 
 .nav ul li {
@@ -6538,6 +6536,8 @@ html {
 img {
   border-style: none;
   width: 300px;
+  border: 5px solid rgb(0, 89, 255);
+  border-radius: 10px;
 }
 
 .main {
@@ -6545,6 +6545,7 @@ img {
   background-color: #fff;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
+  border: 3px solid rgb(0, 89, 255);
   margin: 0 auto;
   margin-top: 25px;
   margin-bottom: 25px;
@@ -6571,7 +6572,7 @@ h1 {
 
 .grid div {
   background-color: #cac9c9;
-  border: 2px solid #01f;
+  border: 2px solid rgb(0, 89, 255);
   padding: 1em;
   border-radius: 8px;
   text-align: center;
@@ -6654,9 +6655,9 @@ h1 {
 
 .sidebar {
   grid-area: sidebar;
-  background-color: #cac9c9;
-  border: 2px solid #01f;
+  border: 2px solid rgb(0, 89, 255);
   padding: 1em;
+  margin-bottom: 10px;
   float: left;
   border-radius: 8px;
   font-weight: bold;
@@ -6685,37 +6686,44 @@ a {
 
 .css {
   grid-area: css;
-  background-color: #cde1ff;
+  background-color: #000;
+  color: #fff;
 }
 
 .html {
   grid-area: html;
-  background-color: #ffe4e1;
+  background-color: #000;
+  color: #fff;
 }
 
 .javascript {
   grid-area: javascript;
-  background-color: #fffacd;
+  background-color: #000;
+  color: #fff;
 }
 
 .php {
   grid-area: php;
-  background-color: #e0ffff;
+  background-color: #000;
+  color: #fff;
 }
 
 .python {
   grid-area: python;
-  background-color: #fafad2;
+  background-color: #000;
+  color: #fff;
 }
 
 .git {
   grid-area: git;
-  background-color: #f5f5dc;
+  background-color: #000;
+  color: #fff;
 }
 
 .sqlite {
   grid-area: sqlite;
-  background-color: #d8bfd8;
+  background-color: #000;
+  color: #fff;
 }
 
 @media screen and (max-width: 768px) {
@@ -6786,7 +6794,7 @@ body {
 }
 
 * {
-  color: #6a6cdb;
+  color: #fff;
 }
 
 .main {

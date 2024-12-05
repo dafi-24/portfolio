@@ -5,6 +5,7 @@ Description: This is our index page.
 
 Home page
 ==========================
+-----------------------------------------
 
 Hejsan! Jag heter David Fritzson och jag är 25 år gammal. Jag har precis börjat plugga Webbprogrammering på BTH!<br><br>
 Jag är född och uppvuxen i Orrefors men för ett par år sen så köpte jag hus i Nybro och det är där jag bor nu.<br><br>

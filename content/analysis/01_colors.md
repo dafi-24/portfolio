@@ -1,11 +1,13 @@
-Analys av webbplatser
------------------------
+Analys av färger på webbsidor
+=====================
+-------------------------
 
 I denna uppgift ska jag analysera tre olika webbplatser och skriva lite dokumentation om vad jag kommer fram till.
 
 Jag kommer kolla upp färger, typsnitt och känslan av dessa webbplatser.
 
 Urval
+-----------------------
 -----------------------
 
 De tre olika webbsidorna som jag har valt att analysera är Aftonbladet, Expressen och Dagens Industri.
@@ -16,6 +18,7 @@ Jag vill se vad de gör för att nå detta mål.
 
 Metod
 -----------------------
+-----------------------
 
 Min metod som jag har använt för att utföra analysen är F12 på webbplatserna för att kolla upp koden och se vad de har för färger samt typsnitt.
 
@@ -24,6 +27,7 @@ Jag och också "satt" mig i situationen som programmeraren för sidan och funder
 Med dessa två metoder så får jag en bild över valen som gjordes när webbplatsen skapades.
 
 Resultat
+-----------------------
 -----------------------
 
 Alla tre webbplatser kör på ett liknande tema men det finns fortfarande skillnader på de och de ska vi kolla upp nu.
@@ -45,6 +49,8 @@ De använder sig av en vit bakgrund för att få färgerna att "poppa" ut tydlig
 
 ![aftonbladet](%assets_url%/img/aftonbladet.jpg)
 
+-----------------------
+
 Expressen använder sig också av rött och blått för att fånga uppmärksamhet på en annars ljus webbplats.
 
 Expressen använder sig av ett liknande typsnitt som Aftonbladet och det får ens ögon att läsa rubrikerna utan att behöva tänka på varför man läser det.
@@ -63,6 +69,8 @@ Expressen har också en bättre layout på sin webbsida som får den att se mind
 </table>
 
 ![expressen](%assets_url%/img/expressen.jpg)
+
+-----------------------
 
 Dagens Industri eller DI som jag kommer referera de till använder också rött för att få användaren att fokusera på viktiga delar av webbsidan.
 
@@ -90,6 +98,7 @@ Brödtexten är väldigt tydlig och kräver ingen anstränging för att läsas.
 
 Analys
 -----------------------
+-----------------------
 
 Som vi ser så använder sig alla tre webbplatser av liknande tekniker för att få användaren att läsa deras artiklar.
 
@@ -107,10 +116,12 @@ Något som man kan fundera över är varje alla tre webbsidor använder sig av e
 
 Referenser
 -----------------------
+-----------------------
 
 Ange de eventuella referenser du använder dig av, om några.
 
 Övrigt
+-----------------------
 -----------------------
 
 David Fritzson

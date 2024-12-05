@@ -5,6 +5,7 @@ Template: technologies
 ---
 
 # JavaScript
+--------------------------------------
 
 <div class="grid-2">
   <div class="sidebar">

@@ -3,6 +3,7 @@ Title: Technologies
 Description: This is my technologies page.
 Template: technologies
 ---
+
 <div class="grid">
   <h1>Teknologier</h1>
   <div class="css"><a href="technology/css">CSS</a></div>

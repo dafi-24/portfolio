@@ -5,6 +5,7 @@ Template: technologies
 ---
 
 # Git
+----------------------------------
 
 <div class="grid-2">
   <div class="sidebar">
@@ -18,7 +19,7 @@ Template: technologies
         <li><a href="sqlite">SQLite</a></li>
     </ul>
   </div>
-
+  
   <div class="single">
     <p>Git är ett distribuerat versionshanteringssystem som skapades 2005 av Linus Torvalds. Git skapades för att hantera ändringar för Linux-kärnan.</p>
 

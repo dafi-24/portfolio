@@ -1,5 +1,5 @@
 ---
-Logo: assets/img/logo_design.jpg
+Logo: image/logo_design.jpg
 Tagline:
 Social:
     - title: Link till sidans github repo.

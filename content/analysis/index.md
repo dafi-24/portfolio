@@ -7,5 +7,5 @@ Template: technologies
   <h1>Teknologier</h1>
   <div class="auto"><a href="analysis/01_colors">Color</a></div>
   <div class="auto"><a href="analysis/02_load">Load</a></div>
-  <div class="auto"><a href="analysis/03_design_principles">Design Principles</a></div>
+  <div class="auto"><a href="analysis/03_designprincip">Design Princip</a></div>
 </div>

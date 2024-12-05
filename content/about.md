@@ -5,6 +5,7 @@ Description: About page for Info
 
 About page
 ==========================
+-----------------------------------
 
 Tekniker som jag har använt än så länge:<br><br>
 Scss filer för styling och hantering.<br><br>

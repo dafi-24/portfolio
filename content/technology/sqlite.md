@@ -5,6 +5,7 @@ Template: technologies
 ---
 
 # SQLite
+----------------------------------
 
 <div class="grid-2">
   <div class="sidebar">
